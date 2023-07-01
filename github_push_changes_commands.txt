@@ -1,0 +1,7 @@
+GITHUB PUSH CHANGES COMMANDS:
+
+1. En la carpeta raiz del proyecto:
+
+git add .
+git commit -m "Mensaje personalizado sobre el cambio"
+git push -u origin main
